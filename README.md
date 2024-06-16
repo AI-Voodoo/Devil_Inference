@@ -1,4 +1,4 @@
-# Devil_Inference
+# Devil's Inference
 A method to adversarially assess the Phi-3 Instruct model by observing the attention distribution across its heads when exposed to specific inputs. This approach prompts the model to adopt the 'devil's mindset’, enabling it to generate outputs of a violent nature. 
 
 <p align="center">
