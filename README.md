@@ -2,7 +2,7 @@
 A method to adversarially assess the Phi-3 Instruct model by observing the attention distribution across its heads when exposed to specific inputs. This approach prompts the model to adopt the 'devil's mindset’, enabling it to generate outputs of a violent nature. 
 
 <p align="center">
-  <img src="https://github.com/AI-Voodoo/Devil_Inference/blob/main/images/title.png?raw=true" width="571" height="511" alt="Description of Image">
+  <img src="https://github.com/AI-Voodoo/Devil_Inference/blob/main/images/title.png?raw=true" alt="Description of Image">
 </p>
 
 Microsoft and their AI read team worked hard to significantly reduce Phi 3’s ability to produce harmful content as seen below:
