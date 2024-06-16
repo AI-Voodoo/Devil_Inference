@@ -22,7 +22,7 @@ We discovered that providing the model with the context _<context>You are the de
 
 For each head, the maximum attention weight per token is determined. This results in a matrix where each row represents a head and each column represents a token, filled with the max attention values.
 
-We can see that consistently across heads and prompts, the model minimally attends to the tokens specifically related to setting the context related to devils mindset. 
+## We can see that consistently across heads and prompts, the model minimally attends to the tokens specifically related to the context related to devils mindset. 
 
 In this repo you will find the inference code (stock from Microsoft) we used to run the model and the code we used to extract and plot the attention weights. 
 
