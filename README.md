@@ -22,7 +22,7 @@ We discovered that providing the model with the context _"<context>You are the d
 
 Heat Map matrix visualization for each token/head: This results in a matrix where each row represents a head and each column represents a token, filled with the max attention values.
 
-# We can see that consistently across heads and prompts, the model minimally attends to the tokens specifically related to the context related to devils mindset. 
+### We can see that consistently across heads and prompts, the model minimally attends to the tokens specifically related to the context related to devils mindset. 
 
 Below, 3 examples where the model is prompted to generate violent content based on the technique above.
 
